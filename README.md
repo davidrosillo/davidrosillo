@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate data scientist/engineer from Spain</h3>
 
-- 🔭 I’m currently working on [my portfolio](davidrosillo.com)
+- 🔭 I’m currently working on [my portfolio](http://www.davidrosillo.com)
 
-- 👨‍💻 All of my projects are available at [davidrosillo.com](davidrosillo.com)
+- 👨‍💻 All of my projects are available at [davidrosillo.com](http://www.davidrosillo.com)
 
 - 💬 Ask me about **Dungeons & Dragons**
 
